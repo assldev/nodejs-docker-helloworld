@@ -1,1 +1,1 @@
-return "hello ABC!"
+console.log("hello Node!");
